@@ -4,7 +4,9 @@
 使用方法
 在终端中执行:
 git  clone  https://github.com/0x5e/wechat-deleted-friends.git
+
 cd  wechat-deleted-friends
+
 python  wdf.py
 然后按照提示操作就可以了.
 完成之后手动删除生成的一个群聊, 不要在里面说话, 不说话好友们是不知情的. 
